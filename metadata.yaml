@@ -1,0 +1,39 @@
+_repo: The-Bronze-Eagle--A-Story-of-the-Hundred-Days_25955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: "Written by Baroness Orczy and first published in 1915, The Bronze Eagle:\
+  \ A Story of the Hundred Days, is a romance set in France following the period of\
+  \ the Revolution and the expulsion of the Bourbons. Its central plot lies in the\
+  \ intrigues of their followers and those of Napoleon Bonaparte.\nThe novel was also\
+  \ published serially under the title of Waterloo.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25955'
+  wikidata: Q7720311
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Elba and the Hundred Days,
+  1814-1815 -- Fiction'
+- !lcsh 'Elba (Italy) -- Fiction'
+title: 'The Bronze Eagle: A Story of the Hundred Days'
+url: http://www.gutenberg.org/ebooks/25955
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Bronze_Eagle
